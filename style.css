@@ -56,5 +56,6 @@ footer {
   .tile-image {
     width: 100%;
     margin-bottom: 10px;
+    object-fit: cover;
   }
 }
